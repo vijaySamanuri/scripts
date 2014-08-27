@@ -1,4 +1,4 @@
 scripts
 =======
 
-Bash scripts
+This repository contains some handy Bash scripts
